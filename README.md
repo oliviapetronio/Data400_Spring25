@@ -1,4 +1,4 @@
-# DATA 400: Capstone in Data Analytics (Fall 2024) #
+# DATA 400: Capstone in Data Analytics (Spring 2025) #
 
 |  | [Eren Bilen](http://ernbilen.github.io) |
 |--------------|--------------------------------------------------------------|
